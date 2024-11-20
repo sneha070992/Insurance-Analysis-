@@ -1,10 +1,6 @@
 # SHIELD INSURANCE PROJECT
 
-This project is a part of the virtual Internship at AtliQ Technologies.
-
 **Dashboard Link -**  https://app.powerbi.com/view?r=eyJrIjoiZDFjYTYwN2EtMTM5Ny00MzIyLTljM2MtN2MwMGQ1MTFlYjVjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
-**Presentation Link -**  https://www.linkedin.com/posts/akash-singh-dataanalyst_datafam-connections-codebasicsvirtualinternship-activity-7221139051385384960-peXe?utm_source=share&utm_medium=member_desktop
 
 ## Project Overview-
 
